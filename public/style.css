@@ -1,0 +1,58 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: green;
+  background-image: url("https://digitalmarketing.blob.core.windows.net/5365/images/items/image328398.jpg");
+  no-repeat center center;
+  background-size: cover;
+  height: 800px;
+  text-align: center;
+
+}
+
+
+p {
+  font-family: fantasy;
+    font-size: 16px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 10px;
+}
+
+li {
+    font-family: monospace;
+    font-size: 20px;
+    display: block;
+    width: 1190px;
+    background-color: white;
+    padding: 10px;
+    margin: 4px;
+    background-color: white;
+    opacity: 0.8;
+
+
+}
+
+
+.text {
+  background-color: white;
+  opacity: 0.8;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 28px;
